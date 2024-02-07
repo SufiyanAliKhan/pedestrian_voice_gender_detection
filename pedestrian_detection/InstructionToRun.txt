@@ -1,0 +1,1 @@
+In the Src file , run the main.py file and select video or image for pedestrian detection in the output terminal.
